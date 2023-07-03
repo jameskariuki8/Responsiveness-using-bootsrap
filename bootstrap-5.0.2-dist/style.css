@@ -1,0 +1,11 @@
+body::brfore{
+    display: block;
+    content:'';
+    height: 60px;
+}
+
+@media(min-width:798px){
+    .news-input{
+        width: 50%;
+    }
+}
